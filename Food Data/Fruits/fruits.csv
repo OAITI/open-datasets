@@ -1,0 +1,45 @@
+"","Name","FruitGroup","Fruittype","Shape","Color","VisibleSeeds","PeelingRequired","ServingSize","FruitWeight_g","Calories","Fiber_g","VitaminA_mg","VitaminC_mg","Potassium_mg","Folate_µg"
+"1","Red Apple","simple","pome","round","red ","visible","no","1 medium",138,72,3.3,75,6,148,4
+"2","Apricot","simple","drupe","round","orange","visible","no","2 meduim",70,34,1.4,1348,7,181,6
+"3","Avocado","simple","berry","pear","green","visible","yes","1/5 medium",35,58,2.4,51,3,175,31
+"4","Banana","simple","berry","curved","yellow","not-visible","yes","1 medium",118,105,3.1,76,10,422,24
+"5","Blackberry","aggregate","drupe","round","purple","not-visible","no","1/2 cup",72,31,3.8,154,15,117,18
+"6","Blueberry","simple","berry","round","purple","not-visible","no","1/2 cup",73,41,1.7,39,7,56,4
+"7","Boysenberry","aggregate","berry","round","maroon","not-visible","no","1/2 cup",72,35,4,0.035,2.05,91.5,41.55
+"8","Cantaloupe","simple","pepos","round","green","visible","yes","1/2 cup cubed",80,27,0.7,2706,30,214,17
+"9","Cherry","simple","drupe","round","red","visible","no","1/2 cup",73,46,1.5,46,5,161,3
+"10","Cherimoya","multiple","pepos","ovate","green","visible","yes","1/2 cup",78,58,1.8,0,9,210,14
+"11","Date","multiple","berry","oval","brown","visible","yes","5 Dates",42,117,3.3,4,0,272,8
+"12","Elderberry","simple","berry","round","purple","visible","no","1 cup",145,106,10,0.48,52.2,56.6,8.7
+"13","Fig","multiple","drupe","oval","red ","not-visible","yes","2 medium",100,74,2.9,142,2,232,6
+"14","Goji berry","simple","berry","oval","red ","visible","no","1/4 cup",28,23,2,1.39,5.4,235,0
+"15","Gooseberry","simple","berry","oval","green","visible","yes","1 cup ",150,66,6,0.24,41.6,297,9
+"16","Green Grapes","simple","berry","oval","green","visible","no","1/2 cup",77,53,0.7,51,8,147,2
+"17","Grapefruit","simple","citrus","round","orange","visible","no","1/2 medium",128,41,1.4,1187,44,178,13
+"18","Guava","simple","pepos","oval","green","visible","no","1 medium",55,37,3,343,126,229,27
+"19","Huckleberry","aggregate","berry","round","purple","not-visible","no","1/4 cup",28,10,0,0.12,0.8,0,0
+"20","Kiwi fruit","multiple","berry","oval","brown","visible","yes","1 large",91,56,3.1,159,68,302,35
+"21","Kumquat","multiple","hesperidium","oval","orange","visible","yes","1 medium",19,13,1,0.21,8.3,35.3,3.2
+"22","Lemon","simple","hesperidium","oval","yellow","visible","yes","1medium",58,17,1.6,13,31,80,6
+"23","Lime","simple","hesperidium","oval","green","visible","yes","1 medium",67,20,1.9,34,20,68,5
+"24","Lychee","simple","fleshy","oval","brown","visible","yes","1 cup",190,125,2,0,136,325,26.6
+"25","Mango","multiple","fleshy","oval","orange","visible","yes","1/3 medium",83,54,1.5,631,23,129,12
+"26","Watermelon","simple","pepos","oval","green","visible","yes","1/2 cup cubed",77,23,0.3,438,6,86,2
+"27","Mulberry","multiple","drupe","oval","purple","not-visible","no","1 cup ",140,60.2,2,0.019,51,272,8.4
+"28","Nectarine","simple","drupe","round","orange","visible","no","1 medium",136,60,2.3,452,7,273,7
+"29","Olive","simple","drupe","oval","green","visible","no","1/4 cup",34,39,1.1,135,0,3,0
+"30","Orange","simple","hesperidium","round","orange","visible","yes","1 medium",131,62,3.1,295,70,237,39
+"31","Tangerine","simple","hesperidium","round","orange","visible","yes","1 medium ",123,20,1.1,1840,20,261,36
+"32","Papaya","multiple","pepos","pear","yellow","visible","yes","1/2 cup",70,27,1.3,766,43,180,27
+"33","Passionfruit","multiple","berry","oval","purple","visible","yes","1 cup",236,229,25,1.65,70.8,821,33
+"34","Peach","simple","drupe","round","peach","visible","no","1 medium",98,38,1.5,319,7,186,4
+"35","Pear","simple","pome","pear","green","visible","no","1 medium",166,96,5.1,38,7,198,12
+"36","Persimmon","simple","citrus","oval","orange","visible","yes","1 medium",168,118,6,2733,13,270,13
+"37","Plum","simple","drupe","round","purple","visible","no","2 medium",132,61,1.8,455,13,207,7
+"38","Pineapple","multiple","hesperidium","oval","brown","not-visible","yes","1/2 cup chopped",78,35,1,40,13,97,9
+"39","Pomegranate","multiple","berry","round","red","visible","yes","1 medium",154,105,0.9,166,9,399,9
+"40","Quince","simple","pome","pear","yellow","visible","no","1 medium",92,52,1.7,37,14,181,3
+"41","Raspberry","aggregate","drupe","heart","red","not-visible","no","1/2 cup ",62,32,4,20,16,93,13
+"42","Strawberry","aggregate","berry","heart","red","not-visible","no","1/2 cup sliced",83,27,1.7,10,49,127,20
+"43","Ugli fruit","simple","hesperidium","pear","lime","visible","yes","1 medium",122,45,2,0,70,0,26
+"44","Cranberry","aggregate","berry","round","red","visible","no","1 cup choped",110,51,5,0.036,14.6,93.5,11
