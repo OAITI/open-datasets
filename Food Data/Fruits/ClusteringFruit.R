@@ -1,4 +1,4 @@
-```
+
 # This notebook was created by your friendly Omniacs at Omni Analytics Innovative Technologies Initiative
 # You can visit us at oaiti.org
 # Follow us on twitter @omnianalytics
@@ -8,6 +8,7 @@ library(dplyr)
 library(cluster)
 library(ggdendro)
 library(ggplot2)
+library(RColorBrewer)
 
 # Read in fruit data
 # Property of and Compiled by Omni Analytics Group, LLC - http://omnianalytics.io
@@ -116,12 +117,12 @@ mydendro <- as.dendrogram(myclust)
 
 # Plot the final result
 plot(myclust)
-rect.hclust(myclust, k = 4, border = "red")
+rect.hclust(myclust, k = 9, border = "red")
 
 # Let's make this a little prettier by using the A2R package code
 source("http://addictedtor.free.fr/packages/A2R/lastVersion/R/code.R")
 op = par(bg = "#EFEFEF")
-A2Rplot(myclust, k = 4, boxes = FALSE, col.up = "gray50", 
-        col.down = c("#FF6B6B", "#4ECDC4", "#556270", "#50D055","#d050cb"))
+A2Rplot(myclust, k = 9, boxes = FALSE, col.up = "gray50", 
+        col.down = c("#FF6B6B", brewer.pal(8,"Set2")))
 
-```
+
