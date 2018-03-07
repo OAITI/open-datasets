@@ -11,7 +11,6 @@ library(ggplot2)
 library(RColorBrewer)
 
 # Read in fruit data
-# Property of and Compiled by Omni Analytics Group, LLC - http://omnianalytics.io
 fruit<-structure(list(Name = structure(c(40L, 1L, 2L, 3L, 4L, 5L, 6L, 
                                          7L, 9L, 8L, 11L, 12L, 13L, 14L, 15L, 17L, 16L, 18L, 19L, 20L, 
                                          21L, 22L, 23L, 24L, 25L, 44L, 26L, 27L, 28L, 29L, 42L, 30L, 31L, 
