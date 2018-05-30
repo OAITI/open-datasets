@@ -1,0 +1,31 @@
+Year,Pick,Team,Player,Position,College,Games,Minutes ,Total Points,Total Rebounds,Total Assists ,Field Goal Percentage,Three Point Percentage,Free Throw Percentage,Points Per Game,Rebounds Per Game,Assists Per Game,Win Share
+2012,1,NOH,Anthony Davis,PF,University of Kentucky,131,4204,2261,1195,168,0.518,0.133,0.777,17.3,9.1,1.3,16.5
+2012,2,CHA,Michael Kidd-Gilchrist,SF,University of Kentucky,140,3527,1152,779,169,0.464,0.167,0.682,8.2,5.6,1.2,5.2
+2012,3,WAS,Bradley Beal,SG,University of Florida,129,4275,2029,484,380,0.416,0.396,0.787,15.7,3.8,2.9,7
+2012,4,CLE,Dion Waiters,SG,Syracuse University,131,3828,2007,344,392,0.424,0.342,0.714,15.3,2.6,3,2.5
+2012,5,SAC,Thomas Robinson,PF,University of Kansas,140,1929,672,622,80,0.454,0,0.543,4.8,4.4,0.6,1.6
+2012,6,POR,Damian Lillard,PG,Weber State University,164,6104,3257,545,988,0.427,0.381,0.859,19.9,3.3,6,15.4
+2012,7,GSW,Harrison Barnes,SF,University of North Carolina,159,4262,1486,644,214,0.419,0.352,0.739,9.3,4.1,1.3,6
+2012,8,TOR,Terrence Ross,SF,University of Washington,154,3398,1346,396,132,0.417,0.374,0.8,8.7,2.6,0.9,5.1
+2012,9,DET,Andre Drummond,C,University of Connecticut,141,3862,1571,1528,65,0.618,0.25,0.402,11.1,10.8,0.5,14.4
+2012,10,NOH,Austin Rivers,SG,Duke University,130,2757,907,238,287,0.39,0.346,0.601,7,1.8,2.2,-0.5
+2012,11,POR,Meyers Leonard,C,University of Illinois at Urbana-Champaign,109,1561,475,366,51,0.522,0.231,0.8,4.4,3.4,0.5,3.1
+2012,12,HOU,Jeremy Lamb,SG,University of Connecticut,101,1685,736,207,120,0.424,0.35,0.833,7.3,2,1.2,3.4
+2012,13,PHO,Kendall Marshall,PG,University of North Carolina,102,2266,573,197,620,0.396,0.375,0.54,5.6,1.9,6.1,0.8
+2012,14,MIL,John Henson,PF,University of North Carolina,133,2683,1159,794,144,0.519,0,0.521,8.7,6,1.1,5.1
+2012,15,PHI,Maurice Harkless,SF,St. John's University,156,3924,1217,599,130,0.462,0.336,0.583,7.8,3.8,0.8,5.2
+2012,16,HOU,Royce White,PF,Iowa State University,3,9,0,0,0,0,NoAttempts,NoAttempts,0,0,0,0
+2012,17,DAL,Tyler Zeller,C,University of North Carolina,147,3082,1009,720,132,0.472,0,0.745,6.9,4.9,0.9,4.6
+2012,18,HOU,Terrence Jones,PF,University of Kentucky,95,2354,1025,593,102,0.532,0.3,0.618,10.8,6.2,1.1,8
+2012,19,ORL,Andrew Nicholson,PF,St. Bonaventure University,151,2423,1022,513,69,0.481,0.315,0.808,6.8,3.4,0.5,2.3
+2012,20,DEN,Evan Fournier,SG,NoAttempts,114,1931,840,237,156,0.435,0.381,0.759,7.4,2.1,1.4,2.4
+2012,21,BOS,Jared Sullinger,C,Ohio State University,119,2933,1252,865,153,0.44,0.268,0.771,10.5,7.3,1.3,6.6
+2012,22,BOS,Fab Melo,C,Syracuse University,6,36,7,3,0,0.5,NoAttempts,0.25,1.2,0.5,0,0
+2012,23,ATL,John Jenkins,SG,Vanderbilt University,74,1060,414,116,67,0.438,0.365,0.851,5.6,1.6,0.9,1.6
+2012,24,CLE,Jared Cunningham,SG,Oregon State University,21,106,42,9,9,0.343,0.3,0.833,2,0.4,0.4,0.1
+2012,25,MEM,Tony Wroten,SG,University of Washington,107,2037,1030,256,260,0.423,0.216,0.648,9.6,2.4,2.4,-0.8
+2012,26,IND,Miles Plumlee,C,Duke University,94,2019,659,648,45,0.507,NoAttempts,0.566,7,6.9,0.5,4
+2012,27,MIA,Arnett Moultrie,PF,Mississippi State University,59,729,210,180,12,0.547,NoAttempts,0.667,3.6,3.1,0.2,1.7
+2012,28,OKC,Perry Jones,SF,Baylor University,100,1044,304,176,36,0.436,0.349,0.667,3,1.8,0.4,1.5
+2012,29,CHI,Marquis Teague,PG,University of Kentucky,88,835,206,84,121,0.349,0.22,0.686,2.3,1,1.4,-0.8
+2012,30,GSW,Festus Ezeli,C,Vanderbilt University,78,1120,191,313,22,0.438,NoAttempts,0.531,2.4,4,0.3,1.5
